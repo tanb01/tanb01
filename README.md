@@ -9,7 +9,7 @@
 - 🔭 I’m currently collaborating 👯 on some [Greencoast Studios](https://github.com/greencoast-studios)
   projects.
 - 🌱 I’m learning **Docker, Kubernetes, Travis CI** and **React**.
-- 💻 Previously worked on some **C, C++,C C#, Java** projects.
+- 💻 Previously worked on some **C, C++, C#, Java** projects.
 - 💼 Developer tools I use are **VS, VS Code, IntelliJ IDEA, CLion**.
 - 📫 How to reach me: message in a bottle🌊
 - 😄 Pronouns: dude, duderino
@@ -26,8 +26,8 @@
 
 <div align="center">
   <img src="https://github.com/tanb01/tanb01/blob/main/gifs/cat-coding-fiercely.gif" alt="cat" height="160" style="border-radius:4%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tanb01&show_icons=true&count_private=true" alt="stats"
+  <img src="https://github-readme-stats.vercel.app/api?username=tanb01&show_icons=true&count_private=true&theme=material-palenight" alt="stats"
     height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanb01&hide=TeX&layout=compact" alt="top-lang-stats"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanb01&layout=compact&theme=material-palenight" alt="top-lang-stats"
     height="160" />
 </div>
