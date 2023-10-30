@@ -4,22 +4,20 @@
 
 <img src="https://github.com/tanb01/tanb01/blob/main/gifs/kung-fu-panda.gif" alt="panda" align="left" width="200" />
 
-### Ahoy there! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/tanb01)
+### Ahoy there! 👋  ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftanb01%2Ftanb01.json&label=visitors&color=rgb(106%2C%2027%2C%20154))
 
 - 🔭 I’m currently collaborating 👯 on some [Greencoast Studios](https://github.com/greencoast-studios)
   projects.
-- 🌱 I’m learning **Docker, Kubernetes, Travis CI** and **React**.
-- 💻 Previously worked on some **C, C++, C#, Java** projects.
+- 🌱 I’m learning about **Generative AI, Zero Trust Architecture**.
+- 💻 Previously worked on some **C, C++, C#, Java, PHP, Python** projects.
 - 💼 Developer tools I use are **VS, VS Code, IntelliJ IDEA, CLion**.
-- 📫 How to reach me: message in a bottle🌊
-- 😄 Pronouns: dude, duderino
-- ⚡ Fun fact: I like learning human languages, cultures👽 and I like pandas🐼!
+- 😄 Fun fact: I like learning human languages and about their cultures 👽!
 
 ## About Me
 
-- 🖥 Majoring in Information Systems with a focus in Defensive Cybersecurity
-- 👔 Minor in Organization and Project Management
-- 🎓 Studying [@ECE Paris.Lyon](https://www.ece.fr/ecole-ingenieur/), class of 2022
+- 🖥 Majored in Information Systems/Defensive Cybersecurity @ECE (2022)
+- 👔 Majored in Management Consulting @Audencia (2023)
+- 📊 Minored in Organization and Project Management
 - 🐵 I use Linux (Ubuntu) and Windows 10
 
 <br />
