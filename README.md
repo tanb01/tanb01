@@ -6,8 +6,6 @@
 ### ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftanb01%2Ftanb01.json&label=visitors&color=rgb(106%2C%2027%2C%20154))
 </div>
 
-<br />
-
 ## About Me
 
 - 🔭 Currently collaborating on [Greencoast Studios](https://github.com/greencoast-studios)
